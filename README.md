@@ -2,20 +2,20 @@ disini saya berniat untuk mendokumentasikan apa yang telah saya pelajari.
 # Roadmap untuk pembelajaran:
 
 1. Web:
-- HTML & CSS
+- HTML & CSS ~ Complete
 
 2. Bahasa Pemrograman:
-- Javascipt
-- PHP
+- Javascipt ~ Complete
+- PHP ~ Complete
 - python
 
 3. Database:
-- Mysql
+- Mysql ~ Complete
 - PostgreSQL
 
 4. Web Server:
-- Apache
-- Nginx
+- Apache ~ Complete
+- Nginxc ~ Complete
 
 5. Framework:
 - Laravel
@@ -24,6 +24,8 @@ disini saya berniat untuk mendokumentasikan apa yang telah saya pelajari.
 - React
 
 7. API
+8. Management Project:
+- Git & Github ~ Complete
 
 
 # Pemrograman Lanjutan:
